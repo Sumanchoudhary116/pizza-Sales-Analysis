@@ -8,6 +8,7 @@ The project provides actionable insights into sales trends, customer preferences
 It also showcases data visualization skills and proficiency in Power BI, a valuable tool for data analysts.
 
  * Tools Used
+   
 1 Power BI Desktop
 2 Data Source: CSV files from sales records.
 
