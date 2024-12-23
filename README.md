@@ -8,8 +8,8 @@ The project provides actionable insights into sales trends, customer preferences
 It also showcases data visualization skills and proficiency in Power BI, a valuable tool for data analysts.
 
  * Tools Used
-- Power BI Desktop
-- Data Source: CSV files from sales records.
+1 Power BI Desktop
+2 Data Source: CSV files from sales records.
 
  * How to Use
 1. Download the `.pbix` file.
