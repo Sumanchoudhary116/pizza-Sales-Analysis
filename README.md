@@ -9,7 +9,7 @@ It also showcases data visualization skills and proficiency in Power BI, a valua
 
  * Tools Used
    
-1 Power BI Desktop
+1 Power BI Desktop.
 2 Data Source: CSV files from sales records.
 
  * How to Use
