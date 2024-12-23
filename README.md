@@ -9,8 +9,8 @@ It also showcases data visualization skills and proficiency in Power BI, a valua
 
  * Tools Used
    
-1 Power BI Desktop.
-2 Data Source: CSV files from sales records.
+- Power BI Desktop.
+- Data Source: CSV files from sales records.
 
  * How to Use
 1. Download the `.pbix` file.
